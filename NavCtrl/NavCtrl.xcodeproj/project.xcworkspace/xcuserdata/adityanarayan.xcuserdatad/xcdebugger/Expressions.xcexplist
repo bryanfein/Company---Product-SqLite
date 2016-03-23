@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ChildViewController tableView:commitEditingStyle:forRowAtIndexPath:]:ChildViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.products">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
